@@ -1,0 +1,2 @@
+build/*
+libtorch_gpu/libtorch_gpu-1.7.0-2-cu111-linux-x86_64.tar.gz
