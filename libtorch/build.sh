@@ -1,6 +1,6 @@
 rm -rf build/
 mkdir build
 cd build
-cmake ..
+cmake -Wno-dev ..
 make
 ./torch_gpu_debug
