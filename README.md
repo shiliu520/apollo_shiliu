@@ -1,5 +1,8 @@
 # tools for apollo
 
+- tutorials
+
 - libtorch_gpu
 
-- tutorials
+- compile time: 6563s
+![](tutorials/compile_success.png)
